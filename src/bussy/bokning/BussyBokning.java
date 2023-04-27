@@ -5,7 +5,7 @@
 package bussy.bokning;
 
 import java.util.Scanner;
-
+// jfsalkjfd
 public class BussyBokning {
 
     static boolean[] uptagen = {false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false};
